@@ -1,4 +1,5 @@
 # CLT simulation
+[Live Link Preview] (https://veeedant.github.io/CLT_simulation/)
 ## Project Type: Statistical Modeling & Data Simulation
 
 ## Tools Used: Python (NumPy, Matplotlib), Jupyter Notebook, HTML Export
