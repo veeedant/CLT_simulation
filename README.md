@@ -13,7 +13,8 @@ The methodology involves generating a massive Population of 1,000,000 random int
 The Transition: At small sample sizes (k=4), the distribution is wide and flat, showing high variability. As we increase to k=50, the curve becomes a tall, narrow "Bell Shape."
 Concentration at the Mean: Regardless of k, the peak of every curve consistently points towards 150, which is the mathematical midpoint of our population.
 
-# Precision & Standard Error: The narrowing of the curve at k=50 is a visual proof of decreasing Standard Error. It demonstrates that larger samples provide a much more accurate estimate of the population.
+# Precision & Standard Error
+The narrowing of the curve at k=50 is a visual proof of decreasing Standard Error. It demonstrates that larger samples provide a much more accurate estimate of the population.
 
 # Conclusion
 This simulation validates the Central Limit Theorem's power to find order within chaos. It proves that with a sufficiently large sample size, we can make highly accurate predictions about a population's behavior. This project serves as a foundational exercise in understanding statistical inference and the mathematical stability of the Gaussian distribution in real-world data science.
