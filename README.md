@@ -15,5 +15,5 @@ Concentration at the Mean: Regardless of k, the peak of every curve consistently
 
 # Precision & Standard Error: The narrowing of the curve at k=50 is a visual proof of decreasing Standard Error. It demonstrates that larger samples provide a much more accurate estimate of the population.
 
-#Conclusion
+# Conclusion
 This simulation validates the Central Limit Theorem's power to find order within chaos. It proves that with a sufficiently large sample size, we can make highly accurate predictions about a population's behavior. This project serves as a foundational exercise in understanding statistical inference and the mathematical stability of the Gaussian distribution in real-world data science.
